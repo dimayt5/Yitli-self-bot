@@ -1,7 +1,7 @@
 # Yitli-self-bot
 
 # Как использовать?
-Для начала установить Python под вашу систему. Если вы пользователь linux то ничего не делайте.
+Для начала установить Python под вашу систему. !ВНИМАНИЕ! ОБЯЗАТЕЛЬНО НАЖМИТЕ ГАЛОЧКУ "ADD TO PATH" Если вы пользователь linux то ничего не делайте.
 
 Потом запустите фаил setup.bat(способ для Windows 7 - 11). Откройте терминал и введите pip install discord.py==1.7.3 и pip install requests(способ для linux)
 !Внимание! Если у вас был discord.py раньше введите pip list и если версия discord.py 2.0 введите pip unistall discord.py и введите pip install discord.py==1.7.3(новая версия discord.py неподдерживает селф ботов).
